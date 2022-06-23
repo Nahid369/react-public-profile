@@ -1,0 +1,10 @@
+.firstCom{
+    display: flex;
+}
+.prothom{
+    width: 70%;
+    border-right: 1px solid lightgray;
+}
+.second{
+    margin-left: 10px;
+}
